@@ -8,6 +8,6 @@ package main
 import "fmt"
 
 func main() {
-  // this function displays, "Hello, World!"
+  // This function displays, "Hello, World!"
   fmt.Println("Hello, World!")
 }
